@@ -1,54 +1,38 @@
 # Welcome, I'm Renilson
 
-I'm a Computer Science student and beginner/intermediate developer focused on building practical tools with Python, data, automation, AI, and web technologies.
+CS student at Colorado Technical University, focused on backend development.
+I build real projects, get them reviewed, and ship them.
 
 ## About Me
-
-- Studying Computer Science and growing my software development skills every day.
-- Interested in Python, Data Science, Automation, AI, and Web Development.
-- I enjoy building projects that solve real problems and make everyday workflows easier.
-- Open to learning, collaboration, and opportunities in software engineering and data.
+- Backend Developer on **Graph Boost** (team project) — Python, FastAPI, PostgreSQL
+- Built and maintain **MatrixLang** — a real lexer/parser/interpreter with CI
+  and a live in-browser WebAssembly demo
+- Studying Computer Science at Colorado Technical University
+- Open to Software Engineering internships
 
 ## Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />
-</p>
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=renilsonjr&show_icons=true&theme=transparent&hide_border=true" alt="Renilson's GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renilsonjr&layout=compact&theme=transparent&hide_border=true" alt="Renilson's most used languages" />
-</p>
+![Python](https://skillicons.dev/icons?i=python)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
 
 ## Projects
-
-- **Nerdbot** - an AI study mentor that connects topics to real-world career examples.
-- **Graph Boost** - a project focused on using data, graphs, and automation to create useful insights.
+- **Graph Boost** — backend work on a team project building a PC-optimization
+  tool. FastAPI service, a PostgreSQL schema mixing relational tables with
+  JSONB fields, Docker environment set up and maintained for the team.
+- **MatrixLang** ([live demo](https://renilsonjr.github.io/matrixlang)) — an
+  experimental programming language with a real lexer, parser, and
+  interpreter; 1,395 tests running in CI across four Python versions; live
+  in-browser demo via Python compiled to WebAssembly.
 
 ## Currently Learning
+- Foundational programming by hand, no AI — Fibonacci, calculators, recursive
+  functions — across Python, C, JS, and Go
+- Backend fundamentals: databases, API design, testing
 
-- Python for automation, APIs, and data workflows.
-- Data Science fundamentals, including analysis, visualization, and practical projects.
-- AI tools and how to build helpful AI-powered applications.
-- Frontend web development with HTML, CSS, and JavaScript.
-
-## Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/renilsonjr/">
-    <img src="https://img.shields.io/badge/LinkedIn-renilsonjr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:renilson.rjwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-renilson.rjwork%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## GitHub Stats
+[keep your existing stats badges/links here]
