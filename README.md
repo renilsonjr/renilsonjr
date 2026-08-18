@@ -34,5 +34,3 @@ I build real projects, get them reviewed, and ship them.
   functions — across Python, C, JS, and Go
 - Backend fundamentals: databases, API design, testing
 
-## GitHub Stats
-[keep your existing stats badges/links here]
