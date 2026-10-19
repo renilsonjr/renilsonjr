@@ -7,6 +7,7 @@ I build real projects, get them reviewed, and ship them.
 - Backend Developer on **Graph Boost** (team project) — Python, FastAPI, PostgreSQL
 - Built and maintain **MatrixLang** — a real lexer/parser/interpreter with CI
   and a live in-browser WebAssembly demo
+- Building in public Interview Dungeon a training center for developers focused in tech interviews
 - Studying Computer Science at Colorado Technical University
 - Open to Software Engineering internships
 
@@ -16,9 +17,7 @@ I build real projects, get them reviewed, and ship them.
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
+
 
 ## Projects
 - **Graph Boost** — backend work on a team project building a PC-optimization
@@ -30,7 +29,6 @@ I build real projects, get them reviewed, and ship them.
   in-browser demo via Python compiled to WebAssembly.
 
 ## Currently Learning
-- Foundational programming by hand, no AI — Fibonacci, calculators, recursive
-  functions — across Python, C, JS, and Go
+- Foundational programming: Logic of programming, introduction in programing language
 - Backend fundamentals: databases, API design, testing
 
